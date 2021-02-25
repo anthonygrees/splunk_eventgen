@@ -37,3 +37,10 @@ The variables will replace `##year##` and `##month##` with `timestamp`.
 ```json
 {"InputS3Uri":"s3://connect-2c18b5fbca70/connect/splunkgsa/CallRecordings/##year##/##month##/##day##/c04b9f56-069a-4baa-8cbf-cbd10b3b5da3_##full_date##T19:42_UTC.wav","ContactId":"c04b9f56-069a-4baa-8cbf-cbd10b3b5da3","InstanceId":"f50483e1-9ee4-4836-b3f1-a78d52f41269"}
 ```
+  
+### More Details
+The code - https://github.com/splunk/eventgen  
+  
+ - Splunk Tutorial - http://splunk.github.io/eventgen/TUTORIAL.html  
+ - Full Reference - http://splunk.github.io/eventgen/REFERENCE.html#eventgenconfspec  
+ - Great Blog - https://rav3n.medium.com/splunk-eventgen-quick-tutorial-593f526bafc1  
